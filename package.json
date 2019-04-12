@@ -1,0 +1,28 @@
+{
+  "name": "mendja.al",
+  "version": "1.0.0",
+  "description": "The mendja.al homepage",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suldashi/mendja.al.git"
+  },
+  "author": "Ermir Suldashi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suldashi/mendja.al/issues"
+  },
+  "homepage": "https://github.com/suldashi/mendja.al#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-css": "^0.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglify-es": "^1.0.4",
+    "node-sass": "^4.11.0",
+    "pump": "^3.0.0"
+  }
+}
